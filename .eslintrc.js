@@ -3,7 +3,7 @@ module.exports = {
   env: {
     node: true
   },
-  // recommended为eslint核心规则
+  // recommended为eslint核心规则,最严格的
   extends: ['plugin:vue/essential', 'eslint:recommended'],
   // extends: ['plugin:vue/essential', '@vue/standard'],
   // extends: ['plugin:vue/essential', '@vue/prettier'],
